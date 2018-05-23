@@ -4,5 +4,4 @@ class Car < Vehicle # we use < to inherit the Car class from Vehicle. There are 
   def go #Overwriting the go method in the Vehicle class
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
-
 end
